@@ -19,6 +19,7 @@ Vector maps are json data which are binded to DOM (Document Object Model) using 
 
 * [Quick Start](#quick-start)
 * [File Structure](#file-structure)
+* [Technical Support or Questions](#technical-support-or-questions)
 * [Social Media](#social-media)
 
 ## Quick start
@@ -67,6 +68,9 @@ dashboard-map-d3/
 └── index.html
 ```
 
+## Technical Support or Questions
+
+If you have questions or need help integrating the product, [contact me](https://api.whatsapp.com/send?phone=917506021898) me on whatsapp or email me at (akashpawara29@gmail.com).
 
 ## Social Media
 
