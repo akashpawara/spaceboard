@@ -1,4 +1,4 @@
-# [Spaceboard](https://akashpawara.github.io/dashboard-map-d3/)
+# [Spaceboard](https://akashpawara.github.io/spaceboard/)
 
 ![version](https://img.shields.io/badge/version-1.0-blue.svg) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discordapp.com/users/228556195689005059) [![Profile](https://img.shields.io/badge/Linkedin-akashpawara-blue)](https://www.linkedin.com/in/akashpawara) ![tag](https://img.shields.io/badge/tag-1.0-blue.svg)
 
@@ -6,7 +6,7 @@
 
 ![Product Gif](assets/img/spaceboard.gif)
 
-To check out live demo, [Click here](https://akashpawara.github.io/dashboard-map-d3/)
+To check out live demo, [Click here](https://akashpawara.github.io/spaceboard/)
 
 ### D3.js (Data Driven Documents)
 D3.js is a JavaScript library for manipulating documents based on data. D3 helps you bring data to life using HTML, SVG, and CSS. D3’s emphasis on web standards gives you the full capabilities of modern browsers without tying yourself to a proprietary framework, combining powerful visualization components and a data-driven approach to DOM manipulation.
